@@ -19,14 +19,5 @@ public class Main{
 
 
         new Usuario("Guilherme","guilherme.miguel@gea.inatel.br", listRedes);
-        
-        facebook.videoConferencia();
-        facebook.compartilhamento();
-        facebook.postarFoto();
-
-        instagram.postarComentario();
-        instagram.postarVideo();
-        instagram.curtirPublicacao();
-
     }
 }

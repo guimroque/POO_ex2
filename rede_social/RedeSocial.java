@@ -1,5 +1,5 @@
 package rede_social;
-public class RedeSocial {
+public abstract class RedeSocial {
     private 
         String senha;
         int numAmigos;
